@@ -17,6 +17,9 @@
 * **Lightweight Performance:** Optimized code to ensure zero lag or frame drops while running.
 * **Easy Toggle:** Simple hotkey bindings to quickly enable or disable the utility.
 
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/ba431e02-a85d-42d1-b928-41b2c64e0435" />
+
+
 ---
 
 ## 🚀 Getting Started
