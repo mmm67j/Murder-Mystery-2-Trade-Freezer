@@ -1,4 +1,4 @@
-# MM2 Trade Freezer 🧊
+# MM2 Trade Freezer/duper 🧊
 
 > A lightweight utility tool for **Murder Mystery 2 (MM2)** on Roblox designed to manage and secure your trading sessions.
 
