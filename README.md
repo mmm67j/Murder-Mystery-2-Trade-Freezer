@@ -29,12 +29,9 @@
 ### Installation & Usage
 
 1. Open **Roblox** and launch **Murder Mystery 2**.
-2. Open your preferred script executor.
-3. Copy and paste the loader script below into your executor:
+2. Open our script executor.
+3. Run our executor:
 
-```lua
--- Example Loader Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/mm2-trade-freezer/main/loader.lua"))()
 
 ```
 
@@ -44,7 +41,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/mm2-tra
 
 ## ⚙️ Configuration
 
-You can customize keybinds and settings by opening the `config.json` file (if running a workspace version) or via the in-game settings panel:
+You can customize keybinds and settings by opening the `config top menu`  (if running a workspace version) or via the in-game settings panel:
 
 * `ToggleKey`: `Enum.KeyCode.F4`
 * `AutoSave`: `true`
@@ -67,7 +64,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-Would you like help writing the actual Lua source code or script backend for this tool?
